@@ -70,5 +70,35 @@
 </body>
 <script src="./ddd.js"></script>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-
+<script language="JavaScript">
+  $(document).on("contextmenu", function (e) {
+    e.preventDefault();
+  });
+</script>
+<script language="JavaScript">
+  $(document).keydown(function (event) {
+    if (event.keyCode == 123) {
+      return false;
+    } else if (event.ctrlKey && event.shiftKey && event.keyCode == 73) {
+      return false; //Prevent from ctrl+shift+i
+    }
+  });
+</script>
+<script>
+  document.onkeydown = function (e) {
+    if (e.ctrlKey && (e.keyCode === 67 || e.keyCode === 86 || e.keyCode === 85 || e.keyCode ===
+      117)) { //Alt+c, Alt+v will also be disabled sadly. 
+    }
+    return false;
+  };
+</script>
+<script>
+  function click() {
+    if (event.button == 2 || event.button == 3) {
+      oncontextmenu = 'return false';
+    }
+  }
+  document.onmousedown = click
+  document.oncontextmenu = new Function("return false;")
+</script>
 </html>
