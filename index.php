@@ -26,7 +26,7 @@
         <div>
             <div>
                 <div class="max-w-7px m-auto flex justify-between items-center px-[24px] md:px-[38px] py-[28px]"><a
-                       ><img src="https://uploads-ssl.webflow.com/614bcfb621467c9242c84bbc/6237f3bcb87b267052647112_AstroSwap%20Logo.svg" alt=""
+                       ><img src="https://collectors.premint.xyz/premint.svg" alt=""
                             class="hidden md:block"><img src="https://collectors.premint.xyz/premint-icon.svg" alt=""
                             class="block md:hidden"></a>
                     <nav>
@@ -36,7 +36,7 @@
                 <div class=""><a id="mint"></a>
                     <div
                         class="px-[24px] md:px-10 max-w-[1200px] m-auto mt-[62px] md:flex justify-between md:space-x-[80px]">
-                        <div class="w-full"><img src="./bg.png" alt=""
+                        <div class="w-full"><img src="https://collectors.premint.xyz/collector-pass.png" alt=""
                                 width="560"></div>
                         <div class="max-w-[560px] m-auto flex flex-col items-start space-y-[24px]">
                             <div class="space-y-[16px]">
