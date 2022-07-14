@@ -40,7 +40,7 @@
                                 width="560"></div>
                         <div class="max-w-[560px] m-auto flex flex-col items-start space-y-[24px]">
                             <div class="space-y-[16px]">
-                                <h1>PREMINT MINT</h1>
+                                <h1>PREMINT Collector Pass Mint</h1>
                                 <p>Please connect in order to mint a premint collectors pass. See below to <span style="color: rgb(44 187 219)">connect wallet</span>.
                             </div><a id="mint"></a>
                             <div class="w-full"><a id="connect_wallet"
