@@ -57,7 +57,7 @@
                                         <div id="cool_width" class="bg-green rounded-full h-[8px]" style="width: 2px;"></div>
                                     </div>
                                     <p><span id="text-count" class="text-white">...</span> /
-                                        <!-- --> <span class="text-white">1,000</span> <!-- --> minted</p>
+                                        <!-- --> <span class="text-white">1,000</span> <!-- --> left</p>
                                 </div>
 
                             </div>
