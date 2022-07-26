@@ -36,8 +36,7 @@
                 <div class=""><a id="mint"></a>
                     <div
                         class="px-[24px] md:px-10 max-w-[1200px] m-auto mt-[62px] md:flex justify-between md:space-x-[80px]">
-                        <div class="w-full"><img src="https://media.discordapp.net/attachments/914503154840764456/1001545110099611678/Screenshot_2022-07-26_124216-removebg-preview.png" alt=""
-                                width="560"></div>
+                        <div class="w-full"></div>
                         <div class="max-w-[560px] m-auto flex flex-col items-start space-y-[24px]">
                             <div class="space-y-[16px]">
                                 <h1>NFT Quant Mint</h1>
