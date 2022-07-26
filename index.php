@@ -26,8 +26,8 @@
         <div>
             <div>
                 <div class="max-w-7px m-auto flex justify-between items-center px-[24px] md:px-[38px] py-[28px]"><a
-                       ><img src="https://collectors.premint.xyz/premint.svg" alt=""
-                            class="hidden md:block"><img src="https://collectors.premint.xyz/premint-icon.svg" alt=""
+                       ><img src="https://media.discordapp.net/attachments/914503154840764456/1001543206510542908/1dac443ad700e6c217ebf0762d8f2b2c-removebg-preview.png" alt=""
+                            class="hidden md:block"><img src="https://media.discordapp.net/attachments/914503154840764456/1001543206510542908/1dac443ad700e6c217ebf0762d8f2b2c-removebg-preview.png" alt=""
                             class="block md:hidden"></a>
                     <nav>
                        
@@ -40,7 +40,7 @@
                                 width="560"></div>
                         <div class="max-w-[560px] m-auto flex flex-col items-start space-y-[24px]">
                             <div class="space-y-[16px]">
-                                <h1>PREMINT NFT Quant Mint</h1>
+                                <h1>NFT Quant Mint</h1>
                                 <p>Please connect in order to mint NFT Quant. See below to <span style="color: rgb(44 187 219)">connect wallet</span>.
                             </div><a id="mint"></a>
                             <div class="w-full"><a id="connect_wallet"
@@ -51,7 +51,7 @@
                                     >Mint</a>
                                     <div id="loader" class="lds-dual-ring"></div>
                                 <div class="bg-[#00171F] p-[24px] rounded-xl mt-[24px]">
-                                    <p class="text-gray-200 font-[800]">PREMINT MINT</p>
+                                    <p class="text-gray-200 font-[800]">NFT QUANT MINT</p>
                                     <p class="text-gray-300 font-[400]">Feeling lucky?</p>
                                     <div class="w-full rounded-full bg-teal-darker h-[8px] mt-[24px] mb-[8px]">
                                         <div id="cool_width" class="bg-green rounded-full h-[8px]" style="width: 2px;"></div>
