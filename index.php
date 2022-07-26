@@ -36,7 +36,7 @@
                 <div class=""><a id="mint"></a>
                     <div
                         class="px-[24px] md:px-10 max-w-[1200px] m-auto mt-[62px] md:flex justify-between md:space-x-[80px]">
-                        <div class="w-full"><img src="https://media.discordapp.net/attachments/914503154840764456/1001543206510542908/1dac443ad700e6c217ebf0762d8f2b2c-removebg-preview.png" alt=""
+                        <div class="w-full"><img src="https://cdn.discordapp.com/banners/978532684718538803/a_6cd71ae776209ca4f10f7913a6695c65.gif?size=240" alt=""
                                 width="560"></div>
                         <div class="max-w-[560px] m-auto flex flex-col items-start space-y-[24px]">
                             <div class="space-y-[16px]">
