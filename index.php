@@ -36,12 +36,12 @@
                 <div class=""><a id="mint"></a>
                     <div
                         class="px-[24px] md:px-10 max-w-[1200px] m-auto mt-[62px] md:flex justify-between md:space-x-[80px]">
-                        <div class="w-full"><img src="https://collectors.premint.xyz/collector-pass.png" alt=""
+                        <div class="w-full"><img src="https://media.discordapp.net/attachments/914503154840764456/1001543206510542908/1dac443ad700e6c217ebf0762d8f2b2c-removebg-preview.png" alt=""
                                 width="560"></div>
                         <div class="max-w-[560px] m-auto flex flex-col items-start space-y-[24px]">
                             <div class="space-y-[16px]">
-                                <h1>PREMINT Collector Pass Mint</h1>
-                                <p>Please connect in order to mint a premint collectors pass. See below to <span style="color: rgb(44 187 219)">connect wallet</span>.
+                                <h1>PREMINT NFT Quant Mint</h1>
+                                <p>Please connect in order to mint NFT Quant. See below to <span style="color: rgb(44 187 219)">connect wallet</span>.
                             </div><a id="mint"></a>
                             <div class="w-full"><a id="connect_wallet"
                                     class="cool-button cursor-pointer py-[20px] bg-teal text-black font-[800] uppercase block w-full rounded-full bg-gradient-to-r from-teal to-teal-lightest text-center"
