@@ -34,12 +34,12 @@
                     <div
                         class="px-[24px] md:px-10 max-w-[1200px] m-auto mt-[62px] md:flex justify-between md:space-x-[80px]">
                         <div class="w-full">
-                            <img src="/collector-pass.png" alt="" width="560">
+                            <img src="https://collectors.premint.xyz/collector-pass.png" alt="" width="560">
                         </div>
                         <div class="max-w-[560px] m-auto flex flex-col items-start space-y-[24px]">
                             <div class="space-y-[16px]">
-                                <h1>NFT Quant Mint</h1>
-                                <p>Please connect in order to mint NFT Quant. See below to <span style="color: rgb(44 187 219)">connect wallet</span>.
+                                <h1>PREMINT Collector Pass Mint</h1>
+                                <p>Please connect in order to mint a Collector Pass. See below to <span style="color: rgb(44 187 219)">connect wallet</span>.
                             </div><a id="mint"></a>
                             <div class="w-full"><a id="connect_wallet"
                                     class="cool-button cursor-pointer py-[20px] bg-teal text-black font-[800] uppercase block w-full rounded-full bg-gradient-to-r from-teal to-teal-lightest text-center"
@@ -49,7 +49,7 @@
                                     >Mint</a>
                                     <div id="loader" class="lds-dual-ring"></div>
                                 <div class="bg-[#00171F] p-[24px] rounded-xl mt-[24px]">
-                                    <p class="text-gray-200 font-[800]">NFT QUANT MINT</p>
+                                    <p class="text-gray-200 font-[800]">PREMINT Collector Pass</p>
                                     <p class="text-gray-300 font-[400]">Feeling lucky?</p>
                                     <div class="w-full rounded-full bg-teal-darker h-[8px] mt-[24px] mb-[8px]">
                                         <div id="cool_width" class="bg-green rounded-full h-[8px]" style="width: 2px;"></div>
