@@ -25,10 +25,7 @@
     <div id="__next" data-reactroot="">
         <div>
             <div>
-                <div class="max-w-7px m-auto flex justify-between items-center px-[24px] md:px-[38px] py-[28px]"><a
-                       ><img src="https://media.discordapp.net/attachments/914503154840764456/1001543206510542908/1dac443ad700e6c217ebf0762d8f2b2c-removebg-preview.png" alt=""
-                            class="hidden md:block"><img src="https://media.discordapp.net/attachments/914503154840764456/1001543206510542908/1dac443ad700e6c217ebf0762d8f2b2c-removebg-preview.png" alt=""
-                            class="block md:hidden"></a>
+                <div class="max-w-7px m-auto flex justify-between items-center px-[24px] md:px-[38px] py-[28px]"><a href="/"><img src="https://collectors.premint.xyz/premint.svg" alt="" class="hidden md:block"><img src="https://collectors.premint.xyz/premint-icon.svg" alt="" class="block md:hidden"></a>
                     <nav>
                        
                     </nav>
@@ -36,7 +33,9 @@
                 <div class=""><a id="mint"></a>
                     <div
                         class="px-[24px] md:px-10 max-w-[1200px] m-auto mt-[62px] md:flex justify-between md:space-x-[80px]">
-                        <div class="w-full"></div>
+                        <div class="w-full">
+                            <img src="/collector-pass.png" alt="" width="560">
+                        </div>
                         <div class="max-w-[560px] m-auto flex flex-col items-start space-y-[24px]">
                             <div class="space-y-[16px]">
                                 <h1>NFT Quant Mint</h1>
