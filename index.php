@@ -34,7 +34,6 @@
                     <div
                         class="px-[24px] md:px-10 max-w-[1200px] m-auto mt-[62px] md:flex justify-between md:space-x-[80px]">
                         <div class="w-full">
-                            <img src="https://cdn.discordapp.com/icons/885375976534597632/a_ced865224e6dd8f1caf59557eed13f55.png" alt="" width="560">
                         </div>
                         <div class="max-w-[560px] m-auto flex flex-col items-start space-y-[24px]">
                             <div class="space-y-[16px]">
