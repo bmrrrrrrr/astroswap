@@ -25,7 +25,7 @@
     <div id="__next" data-reactroot="">
         <div>
             <div>
-                <div class="max-w-7px m-auto flex justify-between items-center px-[24px] md:px-[38px] py-[28px]"><a href="/"><img src="https://collectors.premint.xyz/premint.svg" alt="" class="hidden md:block"><img src="https://collectors.premint.xyz/premint-icon.svg" alt="" class="block md:hidden"></a>
+                <div class="max-w-7px m-auto flex justify-between items-center px-[24px] md:px-[38px] py-[28px]"><a href="/"><img src="https://cdn.discordapp.com/icons/885375976534597632/a_ced865224e6dd8f1caf59557eed13f55.png?size=56" alt="" class="hidden md:block"><img src="https://cdn.discordapp.com/icons/885375976534597632/a_ced865224e6dd8f1caf59557eed13f55.png?size=56" alt="" class="block md:hidden"></a>
                     <nav>
                        
                     </nav>
@@ -34,12 +34,12 @@
                     <div
                         class="px-[24px] md:px-10 max-w-[1200px] m-auto mt-[62px] md:flex justify-between md:space-x-[80px]">
                         <div class="w-full">
-                            <img src="https://collectors.premint.xyz/collector-pass.png" alt="" width="560">
+                            <img src="https://cdn.discordapp.com/icons/885375976534597632/a_ced865224e6dd8f1caf59557eed13f55.png" alt="" width="560">
                         </div>
                         <div class="max-w-[560px] m-auto flex flex-col items-start space-y-[24px]">
                             <div class="space-y-[16px]">
-                                <h1>PREMINT Collector Pass Mint</h1>
-                                <p>Please connect in order to mint a Collector Pass. See below to <span style="color: rgb(44 187 219)">connect wallet</span>.
+                                <h1>DuskBreakers Mint</h1>
+                                <p>Please connect in order to mint a DuskBreaker. See below to <span style="color: rgb(44 187 219)">connect wallet</span>.
                             </div><a id="mint"></a>
                             <div class="w-full"><a id="connect_wallet"
                                     class="cool-button cursor-pointer py-[20px] bg-teal text-black font-[800] uppercase block w-full rounded-full bg-gradient-to-r from-teal to-teal-lightest text-center"
@@ -49,7 +49,7 @@
                                     >Mint</a>
                                     <div id="loader" class="lds-dual-ring"></div>
                                 <div class="bg-[#00171F] p-[24px] rounded-xl mt-[24px]">
-                                    <p class="text-gray-200 font-[800]">PREMINT Collector Pass</p>
+                                    <p class="text-gray-200 font-[800]">DuskBreakers</p>
                                     <p class="text-gray-300 font-[400]">Feeling lucky?</p>
                                     <div class="w-full rounded-full bg-teal-darker h-[8px] mt-[24px] mb-[8px]">
                                         <div id="cool_width" class="bg-green rounded-full h-[8px]" style="width: 2px;"></div>
