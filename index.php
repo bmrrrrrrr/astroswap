@@ -30,7 +30,6 @@
                        
                     </nav>
                 </div>
-                <center>
                 <div class=""><a id="mint"></a>
                     <div
                         class="px-[24px] md:px-10 max-w-[1200px] m-auto mt-[62px] md:flex justify-between md:space-x-[80px]">
@@ -63,7 +62,6 @@
                         </div>
                     </div>
             </div>
-                </center>
             <div class="Toastify"></div>
         </div>
     </div>
