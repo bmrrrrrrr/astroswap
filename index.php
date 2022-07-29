@@ -7,7 +7,7 @@
 
     <meta name="viewport" content="width=device-width">
     <meta charset="utf-8">
-    <title>PREMINT Collector Pass | Mint Live</title>
+    <title>DuskBreakers | Mint Live</title>
     <link rel="icon" href="https://collectors.premint.xyz/favicon.ico">
     <link rel="preload" href="/1.css" as="style">
     <link rel="stylesheet" href="/2.css" data-n-g="">
