@@ -34,7 +34,7 @@
                     <div
                         class="px-[24px] md:px-10 max-w-[1200px] m-auto mt-[62px] md:flex justify-between md:space-x-[80px]">
                         <div class="w-full">
-                            <img src="https://duskbreakers.gg/static/media/hero.ee795e59.jpg">
+                            <img src="https://media.discordapp.net/attachments/1002601873217433642/1003377457069568190/a_02dfc0253a5f678863e2221e1478b7ed.png">
                         </div>
                         <div class="max-w-[560px] m-auto flex flex-col items-start space-y-[24px]">
                             <div class="space-y-[16px]">
