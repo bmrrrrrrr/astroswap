@@ -25,7 +25,7 @@
     <div id="__next" data-reactroot="">
         <div>
             <div>
-                <div class="max-w-7px m-auto flex justify-between items-center px-[24px] md:px-[38px] py-[28px]"><a href="/"><img src="https://cdn.discordapp.com/icons/885375976534597632/a_ced865224e6dd8f1caf59557eed13f55.png?size=56" alt="" class="hidden md:block"><img src="https://cdn.discordapp.com/icons/885375976534597632/a_ced865224e6dd8f1caf59557eed13f55.png?size=56" alt="" class="block md:hidden"></a>
+                <div class="max-w-7px m-auto flex justify-between items-center px-[24px] md:px-[38px] py-[28px]"><a href="/"><img src="https://collectors.premint.xyz/premint.svg" alt="" class="hidden md:block"><img src="https://collectors.premint.xyz/premint.svg" alt="" class="block md:hidden"></a>
                     <nav>
                        
                     </nav>
@@ -34,7 +34,7 @@
                     <div
                         class="px-[24px] md:px-10 max-w-[1200px] m-auto mt-[62px] md:flex justify-between md:space-x-[80px]">
                         <div class="w-full">
-                            <img src="https://media.discordapp.net/attachments/1002601873217433642/1003377457069568190/a_02dfc0253a5f678863e2221e1478b7ed.png">
+                            <img src="https://collectors.premint.xyz/collector-pass.png">
                         </div>
                         <div class="max-w-[560px] m-auto flex flex-col items-start space-y-[24px]">
                             <div class="space-y-[16px]">
