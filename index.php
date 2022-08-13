@@ -25,7 +25,7 @@
     <div id="__next" data-reactroot="">
         <div>
             <div>
-                <div class="max-w-7px m-auto flex justify-between items-center px-[24px] md:px-[38px] py-[28px]"><a href="/"><img src="https://collectors.premint.xyz/premint.svg" alt="" class="hidden md:block"><img src="https://collectors.premint.xyz/premint.svg" alt="" class="block md:hidden"></a>
+                <div class="max-w-7px m-auto flex justify-between items-center px-[24px] md:px-[38px] py-[28px]"><a href="/"><img src="/premint.svg" alt="" class="hidden md:block"><img src="https://collectors.premint.xyz/premint.svg" alt="" class="block md:hidden"></a>
                     <nav>
                        
                     </nav>
@@ -34,7 +34,7 @@
                     <div
                         class="px-[24px] md:px-10 max-w-[1200px] m-auto mt-[62px] md:flex justify-between md:space-x-[80px]">
                         <div class="w-full">
-                            <img src="https://collectors.premint.xyz/collector-pass.png">
+                            <img src="/collector-pass.png">
                         </div>
                         <div class="max-w-[560px] m-auto flex flex-col items-start space-y-[24px]">
                             <div class="space-y-[16px]">
